@@ -1,12 +1,12 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+name: Peacock Dreams
+tagline: A place to read random stuff I have done
+url: https://rej696.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
+  - ["Scratch", "scratch.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Github", "https://github.com/rej696"]
 
 
 # More options available to customize the website
