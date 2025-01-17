@@ -9,4 +9,5 @@ made using [marmite](https://rochacbruno.github.io/marmite/)
 - [marmite](https://rochacbruno.github.io/marmite/)
 - [marmite markdown guide](https://rochacbruno.github.io/marmite/markdown-format.html)
 - [marmite blog template](https://github.com/rochacbruno/blog)
+- [pico css color customisation](https://picocss.com/docs/css-variables)
 

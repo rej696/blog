@@ -1,6 +1,8 @@
 name: Peacock Dreams
 tagline: A place to read random stuff I have done
 url: https://rej696.github.io/blog
+enable-search: true
+search_title: Search
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]

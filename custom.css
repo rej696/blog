@@ -1,2 +1,29 @@
 /* Customize me */
 /* picocss.com  */
+@media only screen and (prefers-colors-scheme: dark) {
+    :root:not([data-theme]) {
+        --pico-background-color: #191919;
+        --pico-primary: #819B69;
+        --pico-primary-background: #191919;
+        --pico-primary-underline: #6099C0;
+        --pico-primary-hover: #B279A7;
+        --pico-primary-hover-background: #191919;
+        --pico-primary-focus: #66A5AD;
+        --pico-primary-focus-background: #191919;
+        --pico-primary-inverse: #191919;
+    }
+}
+
+[data-theme=dark] {
+    --pico-background-color: #191919;
+    --pico-primary: #819B69;
+    --pico-primary-background: #191919;
+    --pico-primary-underline: #6099C0;
+    --pico-primary-hover: #B279A7;
+    --pico-primary-hover-background: #191919;
+    --pico-primary-focus: #DE6E7C;
+    --pico-primary-focus-background: #191919;
+    --pico-text-selection-color: #C9C9C9;
+    --pico-primary-inverse: #191919;
+}
+
