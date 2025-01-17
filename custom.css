@@ -1,29 +1,115 @@
 /* Customize me */
+/*
+[colors.bright]
+black = "#3D3839"
+blue = "#61ABDA"
+cyan = "#65B8C1"
+green = "#8BAE68"
+magenta = "#CF86C1"
+red = "#E8838F"
+white = "#8E8E8E"
+yellow = "#D68C67"
+
+[colors.cursor]
+cursor = "#C9C9C9"
+text = "#191919"
+
+[colors.normal]
+black = "#191919"
+blue = "#6099C0"
+cyan = "#66A5AD"
+green = "#819B69"
+magenta = "#B279A7"
+red = "#DE6E7C"
+white = "#BBBBBB"
+yellow = "#B77E64"
+
+[colors.primary]
+background = "#191919"
+foreground = "#BBBBBB"
+
+cursorline = #e5e5e5
+cursor = #353535
+*/
+
 /* picocss.com  */
 @media only screen and (prefers-colors-scheme: dark) {
     :root:not([data-theme]) {
-        --pico-background-color: #191919;
-        --pico-primary: #819B69;
+        --pico-background-color: #3d3839;
+        --pico-primary: #819B69; /* Blue, for links */
         --pico-primary-background: #191919;
         --pico-primary-underline: #6099C0;
         --pico-primary-hover: #B279A7;
         --pico-primary-hover-background: #191919;
         --pico-primary-focus: #66A5AD;
         --pico-primary-focus-background: #191919;
-        --pico-primary-inverse: #191919;
+        --pico-text-selection-color: #3D3839;
+
+        --pico-card-background-color: #191919;
+        --pico-card-border-color: #3D3839;
+        --pico-card-sectioning-background-color: #191919;
     }
 }
+        /* --pico-text-selection-color: #C9C9C9; */
+        /* --pico-primary-inverse: #191919; */
+
+        /* --pico-tag: #8E8E8E; */
+        /* --pico-secondary-background: #3D3839; */
+
+        /* marmite values */
+        /* --pico-background-color: #191919; */
+        /* --pico-home: #BBBBBB; */
+        /* /1* --pico-menu-selected: *1/ */
+        /* --pico-menu: #BBBBBB */
+
+        /* --pico-color-grey-50: #8E8E8E; */
+        /* --pico-color-azure-50: #8E8E8E; */
+        /* --pico-color-azure-50: #8E8E8E; */
+        /* --pico-color-azure-200: #8E8E8E; */
+        /* --pico-color-grey-700: #8E8E8E; */
+
+        /* --pico-color-slate-500: #8E8E8E; */
+        /* --pico-color-slate-750: #8E8E8E; */
+        /* --pico-color-slate-800: #8E8E8E; */
+        /* --pico-color-slate-850: #8E8E8E; */
+
+        /* --pico-color-azure-550: #8E8E8E; */
+        /* --pico-color-azure-650: #8E8E8E; */
 
 [data-theme=dark] {
-    --pico-background-color: #191919;
-    --pico-primary: #819B69;
-    --pico-primary-background: #191919;
-    --pico-primary-underline: #6099C0;
-    --pico-primary-hover: #B279A7;
-    --pico-primary-hover-background: #191919;
-    --pico-primary-focus: #DE6E7C;
-    --pico-primary-focus-background: #191919;
-    --pico-text-selection-color: #C9C9C9;
-    --pico-primary-inverse: #191919;
+        --pico-background-color: #191919;
+        --pico-primary: #819B69; /* Blue, for links */
+        --pico-primary-background: #191919;
+        --pico-primary-underline: #6099C0;
+        --pico-primary-hover: #B279A7;
+        --pico-primary-hover-background: #191919;
+        --pico-primary-focus: #66A5AD;
+        --pico-primary-focus-background: #191919;
+        --pico-text-selection-color: #3D3839;
+
+        --pico-card-background-color: #191919;
+        --pico-card-border-color: #3D3839;
+        --pico-card-sectioning-background-color: #191919;
+
+
 }
 
+        /* marmite values */
+        /* --pico-background-color: #191919; */
+        /* --pico-home: #BBBBBB; */
+        /* /1* --pico-menu-selected: *1/ */
+        /* --pico-menu: #BBBBBB; */
+
+        /* --pico-color-grey-50: #8E8E8E; */
+        /* --pico-color-azure-50: #8E8E8E; */
+        /* --pico-color-azure-50: #8E8E8E; */
+        /* --pico-color-azure-200: #8E8E8E; */
+        /* --pico-color-grey-700: #8E8E8E; */
+
+        /* --pico-color-slate-500: #8E8E8E; */
+        /* --pico-color-slate-750: #8E8E8E; */
+        /* --pico-color-slate-800: #8E8E8E; */
+        /* --pico-color-slate-850: #8E8E8E; */
+
+        /* --pico-color-azure-550: #8E8E8E; */
+        /* --pico-color-azure-650: #8E8E8E; */
