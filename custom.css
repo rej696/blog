@@ -35,7 +35,7 @@ cursor = #353535
 /* picocss.com  */
 @media only screen and (prefers-colors-scheme: dark) {
     :root:not([data-theme]) {
-        --pico-background-color: #3d3839;
+        --pico-background-color: #191919;
         --pico-primary: #819B69; /* Blue, for links */
         --pico-primary-background: #191919;
         --pico-primary-underline: #6099C0;

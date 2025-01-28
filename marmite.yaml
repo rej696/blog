@@ -4,11 +4,11 @@ url: https://rej696.github.io/blog
 enable-search: true
 search_title: Search
 menu:
-  - ["About", "about.html"]
-  - ["Pages", "pages.html"]
-  - ["Scratch", "scratch.html"]
-  - ["Tags", "tags.html"]
-  - ["Github", "https://github.com/rej696"]
+  - ["about", "about.html"]
+  - ["pages", "pages.html"]
+  - ["archive", "archive.html"]
+  - ["tags", "tags.html"]
+  - ["github", "https://github.com/rej696"]
 
 
 # More options available to customize the website
