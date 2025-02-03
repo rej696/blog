@@ -180,3 +180,19 @@ even if you never use it again. Its a great way to widen your perpective.
 
 #### - [The roots of lisp](https://paulgraham.com/rootsoflisp.html)
 One of the most enlightening things I have ever read. Very short article explaining the building blocks of a lisp interpreter. Absolutely worth reading!
+
+
+## Forth
+
+#### - Starting Forth
+
+#### - [JonesForth](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
+
+#### - [Ratfactor Blog Post](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+
+#### - [DuskOS](https://duskos.org/)
+
+#### - [lua miniforth](http://angg.twu.net/miniforth-article.html)
+I used this article to implement [a forth for neovim](https://github.com/rej696/dotfiles/tree/main/nvim.lazy%2Flua%2Fluaforth)
+
+#### - [Udamonic Scamp (FlashForth)](https://udamonic.com/index.html)
