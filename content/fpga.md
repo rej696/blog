@@ -12,6 +12,8 @@ Do some projects:
 - Audio Something?
 - Basc Processor (e.g. for running forth)?
 
+Read Free Range VHDL (https://github.com/fabriziotappero/Free-Range-VHDL-book/tree/master)
+
 ## GHDL
 Followed tutorials for using GHDL https://ghdl.github.io/ghdl/quick_start/index.html
 
