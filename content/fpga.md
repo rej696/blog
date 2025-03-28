@@ -108,3 +108,4 @@ sudo make install
 - VHDL Reference Manual: https://edg.uchicago.edu/~tang/VHDLref.pdf
 - Free Range VHDL open source book: https://github.com/fabriziotappero/Free-Range-VHDL-book/tree/master
 - FPGA4Fun resources and project ideas: https://www.fpga4fun.com/
+- fpga vga tutorials: https://projectf.io/tutorials/
