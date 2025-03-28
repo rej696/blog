@@ -1,6 +1,16 @@
 # FPGA Notes
 
+## The Plan
 Using a Nandland GoBoard with GHDL and Yosys-ghdl-plugin opensource fpga toolchain for lattice ice40 fpgas, to work through the Nandland Getting Started with FPGAs book (https://nandland.com/book-getting-started-with-fpga/)
+
+Work through the book, doing all the exercices
+
+Do some projects:
+- UART
+- VGA
+- ADC/DAC?
+- Audio Something?
+- Basc Processor (e.g. for running forth)?
 
 ## GHDL
 Followed tutorials for using GHDL https://ghdl.github.io/ghdl/quick_start/index.html
@@ -94,4 +104,5 @@ sudo make install
 ### Links
 - Learn VHDL resources from GHDL: https://github.com/ghdl/ghdl/issues/1291
 - VHDL Reference Manual: https://edg.uchicago.edu/~tang/VHDLref.pdf
-
+- Free Range VHDL open source book: https://github.com/fabriziotappero/Free-Range-VHDL-book/tree/master
+- FPGA4Fun resources and project ideas: https://www.fpga4fun.com/
